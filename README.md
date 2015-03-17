@@ -7,8 +7,9 @@ Make load and performance a fun sport.
 * Condition your site around the clock
 
 ## Getting started
-Login to [blitz.io](http://blitz.io) and in the blitz bar type:
-    --api-key
+
+Login to [blitz.io](http://blitz.io) and open blitz keys tab:
+https://blitz.io/to#/settings/blitz_keys/api_key
 
 Now
     gem install blitz
